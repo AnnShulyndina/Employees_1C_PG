@@ -134,8 +134,6 @@ module.exports = (sequelize, DataTypes) => {
             type: DataTypes.BIGINT,
             allowNull: true
         },
-
-
     }, {
         timestamps: false
     })
